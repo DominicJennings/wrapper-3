@@ -24,6 +24,8 @@
 	<theme id="commoncraft" name="Common Craft" thumb="" cc_theme_id="commoncraft" />
 	<theme id="politic" name="Politics &amp; Celebrity" thumb="hilary-stand.swf" cc_theme_id="politic" />
 	<theme id="bizmodels" name="Business Models" cc_theme_id="bizmodels" />
+	<theme id="startrek" name="Star Trek Quogs" cc_theme_id="startrek" enable="N" />
+	<theme id="toonadv" name="Toon Adventure" cc_theme_id="willie" enable="N" />	
 	<word></word>
 	<whiteword />
 	<excludeAssetIDs />
