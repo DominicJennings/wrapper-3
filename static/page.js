@@ -146,7 +146,7 @@ module.exports = function (req, res, url) {
 					goteam_draft_only: 1,
 					isWide: 1,
 					collab: 0,
-					nextUrl: "/html/list.html",
+					nextUrl: "/html/list/movies.html",
 				},
 				allowScriptAccess: "always",
 			};
